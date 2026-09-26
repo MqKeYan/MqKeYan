@@ -88,9 +88,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&rank_icon=github" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MqKeYan&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&rank_icon=github" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight&hide_border=true&locale=cn&langs_count=8" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MqKeYan&layout=compact&theme=tokyonight&hide_border=true&locale=cn&langs_count=8" />
 
 </div>
 
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=你的GitHub用户名&theme=tokyonight&hide_border=true&locale=zh_Hans" />
+<img width="70%" src="https://streak-stats.demolab.com?user=MqKeYan&theme=tokyonight&hide_border=true&locale=zh_Hans" />
 
 </div>
 
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=你的GitHub用户名&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=MqKeYan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
@@ -118,7 +118,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=你的GitHub用户名&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20贡献活动趋势" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MqKeYan&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20贡献活动趋势" />
 
 </div>
 
@@ -128,88 +128,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake-dark.svg" alt="贡献蛇动画" />
-
-</div>
-
-> ⚠️ 贡献蛇需要通过 GitHub Actions 自动生成，不能仅通过 README 本身生成。
-
----
-
-# 🎯 当前目标
-
-- 📚 扎实掌握 **Python**
-- 📊 提升数据处理与数据分析能力
-- 📈 学习更加系统的数据可视化方法
-- 🤖 深入学习 **Machine Learning**
-- 🧠 学习 **Deep Learning** 与 **PyTorch**
-- 🗄️ 掌握大数据相关技术
-- 🧮 持续提升算法与数据结构能力
-- 🛠️ 开发更多实用的小工具
-- 📝 整理更多学习笔记与资料
-- ⭐ 参与更多优秀的开源项目
-- 🚀 持续完善自己的 GitHub 项目
-
----
-
-# 🗂️ 内容规划
-
-| 类型 | 内容 |
-|---|---|
-| 📘 学习笔记 | 专业课程、Python、算法、数据库等 |
-| 📊 数据分析 | 数据清洗、分析、可视化项目 |
-| 🤖 AI | Machine Learning、Deep Learning |
-| 🐍 Python | 自动化、小工具、脚本 |
-| 🗄️ 大数据 | Hadoop、Spark、数据处理 |
-| 🛠️ 开发工具 | Git、GitHub、Linux、Docker |
-| 📦 项目实践 | 课程项目、个人项目、实验项目 |
-| 📝 学习资料 | 自己整理的教程、文档与笔记 |
-
----
-
-# 📌 常用技术
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<br>
-Python
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
-<br>
-PyTorch
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-<br>
-MySQL
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<br>
-Git
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-<br>
-GitHub
-</td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-<br>
-Linux
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/MqKeYan/MqKeYan/output/github-contribution-grid-snake-dark.svg" alt="贡献蛇动画" />
 
 </div>
 
@@ -217,13 +136,7 @@ Linux
 
 <div align="center">
 
-<a href="https://github.com/MqKeYan">
-<img src="https://img.shields.io/badge/GitHub-墨清_Mq-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:你的邮箱">
-<img src="https://img.shields.io/badge/邮箱-联系我-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+E-Mail：
 
 </div>
 
