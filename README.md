@@ -33,57 +33,6 @@
 
 </div>
 
-> 🚧 技术栈持续扩充中。这里展示的是正在学习、使用或计划深入学习的技术。
-
----
-
-# 📚 学习方向
-
-```text
-📦 数据科学与大数据技术
-│
-├── 🐍 Python
-│   ├── NumPy
-│   ├── Pandas
-│   ├── Matplotlib
-│   ├── 数据处理
-│   └── 自动化脚本
-│
-├── 📊 数据分析
-│   ├── 数据清洗
-│   ├── 探索性数据分析
-│   ├── 数据可视化
-│   └── 数据建模
-│
-├── 🤖 Machine Learning
-│   ├── 分类
-│   ├── 回归
-│   ├── 聚类
-│   └── 模型评估
-│
-├── 🧠 Deep Learning
-│   ├── PyTorch
-│   ├── Neural Network
-│   ├── Computer Vision
-│   └── 模型训练
-│
-├── 🗄️ Big Data
-│   ├── Hadoop
-│   ├── Spark
-│   ├── 数据仓库
-│   └── 分布式计算
-│
-└── 💻 Computer Science
-    ├── 数据结构
-    ├── 算法
-    ├── 数据库
-    ├── Linux
-    ├── Git
-    └── 软件工程
-```
-
----
-
 # 📊 GitHub 数据统计
 
 <div align="center">
