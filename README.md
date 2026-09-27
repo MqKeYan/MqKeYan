@@ -35,9 +35,7 @@ E-Mail：
 
 ## ✨ 关于这个主页
 
-这个主页会随着我的学习进度不断更新。
-
-如果这里的项目、笔记或者资料对你有所帮助，欢迎：**Star 项目**、**Fork 仓库**、**关注我的 GitHub**！
+这个主页的内容会不断的更新，如果这里的内容对你有所帮助，欢迎：**Star 项目**、**Fork 仓库**、**关注我的 GitHub**！
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:4F46E5&height=130&section=footer" width="100%" />
 
