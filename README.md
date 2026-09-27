@@ -18,78 +18,18 @@
 
 # 🛠️ 技术栈
 
-
-### 常用的编程语言
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,sqlite&theme=dark" />
-
-### 常用的开发工具
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-### 常用的环境与平台
-
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
-
-</div>
-
-# 📊 GitHub 数据统计
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MqKeYan&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&rank_icon=github" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MqKeYan&layout=compact&theme=tokyonight&hide_border=true&locale=cn&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=MqKeYan&theme=tokyonight&hide_border=true&locale=zh_Hans" />
-
-</div>
-
----
-
-# 🏆 GitHub 成就
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MqKeYan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
----
-
-# 📈 GitHub 活跃趋势
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MqKeYan&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20贡献活动趋势" />
-
-</div>
-
----
-
-# 🐍 贡献记录
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MqKeYan/MqKeYan/output/github-contribution-grid-snake-dark.svg" alt="贡献蛇动画" />
-
-</div>
+## 常用的编程语言
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,sqlite&theme=dark" />
+  
+## 常用的开发工具
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  
+## 常用的环境与平台
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
 
 # 📬 联系方式
 
-<div align="center">
-
 E-Mail：
-
-</div>
-
-<div align="center">
 
 ## ✨ 关于这个主页
 
